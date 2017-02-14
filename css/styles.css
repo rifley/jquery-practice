@@ -1,0 +1,12 @@
+#meat {
+  display: none;
+}
+
+.clickable {
+  cursor: crosshair;
+}
+
+.clickable:hover {
+  color: red;
+  text-decoration: line-through;
+}
